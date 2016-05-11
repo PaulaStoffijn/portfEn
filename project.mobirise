@@ -7,209 +7,12 @@
     "favicon": "@PROJECT_PATH@/assets/images/paula.gif",
     "publishType": "local",
     "publishPath": "file:///Users/paulastoffijn/Desktop/portfEn",
-    "path": "file:///Users/paulastoffijn/Desktop/Portfolio_EN",
+    "path": "file:///Users/paulastoffijn/Desktop/portfEn",
     "screenshot": "screenshot.png",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": ""
   },
   "pages": {
-    "links.html": {
-      "settings": {
-        "title": "",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {}
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-107",
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Terug</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"en.html\">Back</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
-        },
-        {
-          "_inherit": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-33",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paula.gif",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
-        },
-        {
-          "_inherit": "features1",
-          "_name": "content4",
-          "_anchor": "content4-31",
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 5,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "title1": "<p><a href=\"http://victorvanw.github.io/portfolio\" class=\"text-info\">Victor Van Wassenhove</a></p>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "title2": "<p><a href=\"http://http://mykwyr.github.io/portfolio/\" class=\"text-info\">Mayke Vandenweyer</a><br></p>",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "title3": "<p><a href=\"http://woutervannes.github.io/portfolio\" class=\"text-info\">Wouter van Nes</a></p>",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "title4": "",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "title5": "",
-          "caption5": "",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
-        }
-      ]
-    },
     "index.html": {
       "settings": {
         "main": true,
@@ -283,7 +86,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "A poster for a three-part performance night and one for a double movie screening.<br>Made at LUCA School of Arts Ghent in 2015-16."
+          "text": "Een poster voor een driedelige performanceavond en een voor een dubbele film vertoning.<br>Gemaakt aan LUCA School of Arts Gent 2015-16."
         },
         {
           "_name": "image2",
@@ -313,7 +116,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Album amicorum.........<br>"
+          "text": "Bijdragen aan een vriendenboek, beantwoord op de vragen wat is je favoriete muziek, favoriete object, denkbeeldige vriend, favoriete cocktail en favoriete einde. Gemaakt aan&nbsp;LUCA School of Arts Gent 2015-16.<br>"
         },
         {
           "_name": "image1",
@@ -344,7 +147,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at LUCA School of Arts Ghent in 2015-16.<br>"
+          "text": "Modeltekeningen gemaakt aan LUCA School of Arts Gent in 2015-16."
         },
         {
           "_name": "image1",
@@ -375,7 +178,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Cards for Agency for Contemporary Artistic Discourse &amp; Collaboration made in 2015 in Kassel.<br>"
+          "text": "Visitenkaarten voor Agency for Contemporary Artistic Discourse &amp; Collaboration gemaakt in&nbsp;2015.<br>"
         },
         {
           "_name": "image1",
@@ -406,7 +209,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Modeltekeningen gemaakt aan LUCA School of Arts Gent in 2014-15.<br>"
         },
         {
           "_name": "image2",
@@ -436,7 +239,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Website inspired by the Greek mythology of Perseus.<br>Made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Website geïnspireerd op het Griekse mythologische personage Perseus.<br>Gemaakt aan LUCA School of Arts Gent in 2014-15."
         },
         {
           "_name": "image1",
@@ -467,7 +270,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "LP covers for Tangerine Dream and Andre Laplante. The typeface is altered to visualize the spaciousness of the music.<br>Made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Platenhoezen voor Tangerine Dream en Andre Laplante. Lettertype is hiervoor gedigitaliseerd en aangepast om ruimtelijkheid van de muziek te verbeelden.<br>Gemaakt aan LUCA School of Arts Gent in 2014-15."
         },
         {
           "_name": "image2",
@@ -497,7 +300,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Cetacea et Cetera, a wunderkammer as a book. About structures, patterns, underwater live etcetera.<br>Made at LUCA School of Arts Ghent in 2014-15.<br>"
+          "text": "Cetacea et Cetera,&nbsp;een wunderkammer in boekvorm. Over structuren, patronen, ordening, onderwaterleven etcetera. Gemaakt aan&nbsp;LUCA School of Arts Gent in 2014-15.<br>"
         },
         {
           "_name": "image1",
@@ -528,7 +331,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Flyer for Ontroerend Goed made in Antwerp in 2014.<br>"
+          "text": "Flyer voor Ontroerend Goed gemaakt in Antwerpen in 2014.<br>"
         },
         {
           "_name": "image2",
@@ -558,7 +361,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Dagen van gras, dagen van stro, the song ‘Dagen van gras, dagen van stro’ of Spinvis interpreted as a book.<br>Made at the Royal Academy for Fine Arts in Antwerp in 2013-14.<br>"
+          "text": "Dagen van gras, dagen van stro, het nummer 'Dagen van gras, dagen van stro' van Spinvis geïnterpreteerd als boek. Gemaakt aan Koninklijke Academie voor Schone Kunsten Antwerpen in 2013-14."
         },
         {
           "_name": "image1",
@@ -589,7 +392,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at the Royal Academy for Fine Arts in Antwerp in 2013-14.<br>"
+          "text": "Modeltekeningen gemaakt aan Koninklijke Academie voor Schone Kunsten Antwerpen in 2013-14."
         },
         {
           "_name": "image1",
@@ -620,7 +423,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at Artez Arnhem in 2011-12.<br>"
+          "text": "Modeltekeningen gemaakt aan Artez Arnhem in 2011-12."
         },
         {
           "_name": "footer1",
@@ -679,7 +482,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://paulastoffijn.github.io/Portfolio_NL/index.html\">Nederlands</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Links</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"m\">English</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://paulastoffijn.github.io/Portfolio_NL/links.html\">Links</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
