@@ -3,10 +3,10 @@
     "currentPage": "links.html",
     "versionFirst": "2.8.6",
     "versionPublish": "2.8.6",
-    "name": "Portfolio_EN",
+    "name": "PortfEn",
     "favicon": "@PROJECT_PATH@/assets/images/paula.gif",
     "publishType": "local",
-    "publishPath": "file:///Users/paulastoffijn/Desktop/Portfolio_EN",
+    "publishPath": "file:///Users/paulastoffijn/Desktop/portfEn",
     "path": "file:///Users/paulastoffijn/Desktop/Portfolio_EN",
     "screenshot": "screenshot.png",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -36,14 +36,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-107",
           "_params": {
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
-            "transparent": true,
-            "sticky": false,
-            "collapsed": false,
             "logo": false,
             "showBrand": false,
-            "showButtons": false
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
           },
           "logo": {
             "image": {
@@ -65,23 +65,23 @@
           "_name": "header4",
           "_anchor": "header4-33",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/paula.gif",
-            "bgColor": "#4c6972",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "contentAlign": "center",
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": false,
             "showText": false,
             "showButtons": false,
-            "showArrow": false
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/paula.gif",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -92,27 +92,27 @@
           "_name": "content4",
           "_anchor": "content4-31",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showHeader": false,
             "showSubheader": false,
-            "columns": 5,
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 5,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "headerAlign": "left",
           "header": "DROP-DEAD EASY WEBSITE MAKER",
