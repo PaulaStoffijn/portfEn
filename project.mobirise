@@ -65,6 +65,67 @@
               "color": "#000000"
             }
           },
+          "_anchor": "image2-15",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/werfbord-1000x746-51.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "A poster for the Ghent Art Book Fair. Made at LUCA School of Arts Ghent in 2015-16.<br>"
+        },
+        {
+          "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "image1-20",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bookmm.gif",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Book Making Machine, a production line for making books. In collaboration with Victor Van Wassenhove, 2016."
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image2-105",
           "_params": {
             "outside": true,
@@ -87,6 +148,37 @@
             }
           },
           "text": "A poster for a three-part performance night and one for a double movie screening.<br>Made at LUCA School of Arts Ghent in 2015-16.<br>"
+        },
+        {
+          "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "image1-21",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/troep.gif",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Silkscreen-printed posters, invitations and flyers for TROEP, an exhibition of Grafic and Illustration LUCA School of Arts Ghent. In collaboration with Victor Van Wassenhove, 2016."
         },
         {
           "_name": "image2",
@@ -134,7 +226,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/modelgent2-1500x693-75.jpg",
+              "src": "@PROJECT_PATH@/assets/images/model3ba-1400x508-73.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -147,7 +239,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at LUCA School of Arts Ghent in 2015-16.<br>"
+          "text": "Live drawings made at LUCA School of Arts Ghent in 2015-16.<br>"
         },
         {
           "_name": "image1",
@@ -392,7 +484,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at the Royal Academy for Fine Arts in Antwerp in 2013-14.<br>"
+          "text": "Live drawings made at the Royal Academy for Fine Arts in Antwerp in 2013-14.<br>"
         },
         {
           "_name": "image1",
@@ -423,7 +515,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Model drawings made at Artez Arnhem in 2011-12.<br>"
+          "text": "Live drawings made at Artez Arnhem in 2011-12.<br>"
         },
         {
           "_name": "footer1",
