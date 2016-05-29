@@ -90,6 +90,67 @@
         },
         {
           "_name": "image1",
+          "_anchor": "image1-18",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/bellhooks-1000x750-36.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<span style=\"line-height: 1.3em;\">New design of Feminism is for Everybody from bell hooks, part of a series that is still being developed. &nbsp;Made at LUCA School of Arts Ghent in 2015-16.</span><br>",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-19",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/littlebitill-1000x750-40.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<span style=\"line-height: 1.3em;\">Papers with one artikle,&nbsp;part of a series that is still being developed. Made at LUCA School of Arts Ghent in 2015-16.</span><br>",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_name": "image1",
           "_styles": {
             "SMALL": {
               "color": "#000000"
@@ -150,6 +211,36 @@
           "text": "A poster for a three-part performance night and one for a double movie screening.<br>Made at LUCA School of Arts Ghent in 2015-16.<br>"
         },
         {
+          "_name": "image2",
+          "_anchor": "image2-20",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/emma-1000x750-73.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Silkscreenprinted postcards, 2016.<br>",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
           "_name": "image1",
           "_styles": {
             "SMALL": {
@@ -179,6 +270,36 @@
             }
           },
           "text": "Silkscreen-printed posters, invitations and flyers for TROEP, an exhibition of Grafic and Illustration LUCA School of Arts Ghent. In collaboration with Victor Van Wassenhove, 2016."
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-21",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rebound-1000x715-52.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Rebound books, made at&nbsp;Publication Studio Rotterdam, 2016.<br>",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_name": "image2",
