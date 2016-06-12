@@ -90,6 +90,11 @@
         },
         {
           "_name": "image1",
+          "_styles": {
+            "SPAN": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image1-18",
           "_params": {
             "outside": true,
@@ -112,15 +117,15 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<span style=\"line-height: 1.3em;\">New design of Feminism is for Everybody from bell hooks, part of a series that is still being developed. &nbsp;Made at LUCA School of Arts Ghent in 2015-16.</span><br>",
+          "text": "<span style=\"line-height: 1.3em;\">New design of Feminism is for Everybody from bell hooks, part of a series that is still being developed. &nbsp;Made at LUCA School of Arts Ghent in 2015-16.</span><br>"
+        },
+        {
+          "_name": "image2",
           "_styles": {
             "SPAN": {
               "color": "#000000"
             }
-          }
-        },
-        {
-          "_name": "image2",
+          },
           "_anchor": "image2-19",
           "_params": {
             "outside": true,
@@ -142,12 +147,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<span style=\"line-height: 1.3em;\">Papers with one artikle,&nbsp;part of a series that is still being developed. Made at LUCA School of Arts Ghent in 2015-16.</span><br>",
-          "_styles": {
-            "SPAN": {
-              "color": "#000000"
-            }
-          }
+          "text": "<span style=\"line-height: 1.3em;\">Papers with one artikle,&nbsp;part of a series that is still being developed. Made at LUCA School of Arts Ghent in 2015-16.</span><br>"
         },
         {
           "_name": "image1",
@@ -212,6 +212,11 @@
         },
         {
           "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image2-20",
           "_params": {
             "outside": true,
@@ -233,12 +238,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Silkscreenprinted postcards, 2016.<br>",
-          "_styles": {
-            "SMALL": {
-              "color": "#000000"
-            }
-          }
+          "text": "Silkscreenprinted postcards, 2016.<br>"
         },
         {
           "_name": "image1",
@@ -273,6 +273,11 @@
         },
         {
           "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "image2-21",
           "_params": {
             "outside": true,
@@ -294,12 +299,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Rebound books, made at&nbsp;Publication Studio Rotterdam, 2016.<br>",
-          "_styles": {
-            "SMALL": {
-              "color": "#000000"
-            }
-          }
+          "text": "Rebound books, made at&nbsp;Publication Studio Rotterdam, 2016.<br>"
         },
         {
           "_name": "image2",
@@ -695,7 +695,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://paulastoffijn.github.io/Portfolio_NL/index.html\">Nederlands</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://paulastoffijn.github.io/Portfolio_NL/links.html\">Links</a></li>",
+          "items": "  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://paulastoffijn.github.io/Portfolio_NL/index.html\">Nederlands</a></li> ",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         }
       ]
